@@ -2,7 +2,7 @@
 Random cloning...... Enjoy ☺️
 
 
-#toola run👇
+#tools run👇
 
 rm -rf chil
 
