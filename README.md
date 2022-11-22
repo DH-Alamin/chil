@@ -8,8 +8,10 @@ rm -rf chil
 
 git clone https://github.com/DH-Alamin/chil
 
+ls
+
 cd chil
 
 ls
 
-python DH.py
+python run.py
