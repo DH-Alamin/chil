@@ -14,4 +14,4 @@ cd chil
 
 ls
 
-python runn.py
+python run.py
