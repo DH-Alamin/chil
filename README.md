@@ -12,4 +12,4 @@ cd chil
 
 ls
 
-python chil.py
+python DH.py
