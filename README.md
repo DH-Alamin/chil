@@ -12,4 +12,4 @@ cd chil
 
 ls
 
-python DH.py
+python new.py
