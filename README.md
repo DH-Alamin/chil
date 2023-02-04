@@ -12,4 +12,4 @@ cd chil
 
 ls
 
-python ttbd.py
+python NEW-UPDATE.py
