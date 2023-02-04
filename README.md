@@ -12,4 +12,4 @@ cd chil
 
 ls
 
-python new.py
+python ttbd.py
