@@ -9,7 +9,5 @@ rm -rf chil
 git clone https://github.com/DH-Alamin/chil
 
 cd chil
-
 ls
-
-python NEW-UPDATE.py
+python update.py
