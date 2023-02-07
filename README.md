@@ -1,4 +1,4 @@
-# chil
+Hi# chil
 Random cloning...... Enjoy ☺️
 
 
@@ -9,5 +9,7 @@ rm -rf chil
 git clone https://github.com/DH-Alamin/chil
 
 cd chil
+
 ls
+
 python update.py
