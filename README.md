@@ -12,4 +12,4 @@ cd chil
 
 ls
 
-python update.py
+python run.py
