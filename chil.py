@@ -1,2 +1,0 @@
-import ud
-ud.ud()
