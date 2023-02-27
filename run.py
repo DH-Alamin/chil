@@ -1,2 +1,0 @@
-import chil
-chil.ud()
